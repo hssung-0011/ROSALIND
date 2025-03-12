@@ -1,3 +1,8 @@
+"""
+Counting DNA Nucleotides
+"""
+
+
 input_DNA = "AAATC"
 ATGC = [0,0,0,0]
 
